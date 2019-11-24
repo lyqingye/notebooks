@@ -15,26 +15,26 @@
 
 ### 词汇选择
 
-1. **Innovation** is what we need when we design new products
-2. It willl be a close game. The **outcome** is hard to predict
-3. Making mistakes is **inevitable** as one grows up. what is important is to learn from them
-4. Life is full of **challenges**, we should be strong enough to face up to them.
-5. People with disabilities want to be treated like everyone else and given equal opporunties,they do not want **sympathy**
-6. Talking,dancing,playing a game — all of these activities allow you to **interact** with other people
-7. Much to my annoyance, whenever I **criticize** her,she always comes up with an excuse
-8. Remember what out professor said. if you fal to complete your **assignments** on time,you may lose points for your final grade
-9. If students are not statisfied with their grades, should be college allow them to **negotiate** grades with their professors?
-10. With water demand growing, the **conflict** between the two neighboring villages over water has intensified over the years
-11. Order all you camping **stuff** online today, everything you nedd to make a camping trip easier and more enjoyable!
-12. Out university enrolls more students that out city's other two colleges **combined**
-13. Water, though **abundant** in Brazil, is extremely unevenly distributed among its regions
-14. The researchers are concerned about the increasing **frequency** of illness in the village
-15. How determined one is to achieve one's dream is clearly  sign that can be used to **predict** success
-16. I'm really feeling **embarrassed**, I with I had never said such stupid things in the presence of my friend.
-17. Henry has many friend working in the government, His **source** of information are useally reliable
-18. One of first flight training lessons taught to student pilots is how to perform an **emergency** landing in a small airplane
-19. When you read the newspaper, you are probably not reading it word-by-word, instead you are **scannning** the text
-20. Good teachers should encourage student to user their **createtivity** to express themselves and make them feel proud of what they can achieve
+1. `Innovation` is what we need when we design new products
+2. It willl be a close game. The `outcome` is hard to predict
+3. Making mistakes is `inevitable` as one grows up. what is important is to learn from them
+4. Life is full of `challenges`, we should be strong enough to face up to them.
+5. People with disabilities want to be treated like everyone else and given equal opporunties,they do not want `sympathy`
+6. Talking,dancing,playing a game — all of these activities allow you to `interact` with other people
+7. Much to my annoyance, whenever I `criticize` her,she always comes up with an excuse
+8. Remember what out professor said. if you fal to complete your `assignments` on time,you may lose points for your final grade
+9. If students are not statisfied with their grades, should be college allow them to `negotiate` grades with their professors?
+10. With water demand growing, the `conflict` between the two neighboring villages over water has intensified over the years
+11. Order all you camping `stuff` online today, everything you nedd to make a camping trip easier and more enjoyable!
+12. Out university enrolls more students that out city's other two colleges `combined`
+13. Water, though `abundant` in Brazil, is extremely unevenly distributed among its regions
+14. The researchers are concerned about the increasing `frequency` of illness in the village
+15. How determined one is to achieve one's dream is clearly  sign that can be used to `predict` success
+16. I'm really feeling `embarrassed`, I with I had never said such stupid things in the presence of my friend.
+17. Henry has many friend working in the government, His `source` of information are useally reliable
+18. One of first flight training lessons taught to student pilots is how to perform an `emergency` landing in a small airplane
+19. When you read the newspaper, you are probably not reading it word-by-word, instead you are `scannning` the text
+20. Good teachers should encourage student to user their `createtivity` to express themselves and make them feel proud of what they can achieve
 
 ----
 
@@ -42,36 +42,36 @@
 
 ### 短语选择
 
-1. Setting goals can help strengthen your motivation and gain control of your life **(take charge)**
-2. The two girls spent whole night planning the summer events, get-togethers, dinner parties, and  many other thing of the kind **(and so forth)**
-3. Amy Chua's book Battle Hymn of the Tiger Mother created a signigicant impression when it was published in 2011 **(make waves)**
-4. Instead of going to school, this disable man taught himself through to college level **(set foot in)**
-5. Since the debate ,it seems that Dr.Smith's point of view has become dominant **(taken over)**
-6. You see the lights in the students, reading room? They never go out at night these day because the final exams are drawing near **(around the corner)**
-7. Of all the things my gradma used to say, I remember this best of all — everything you worry about will prove to be alright **(turn out)**
-8. I will never go to the little restaurant again! Their food make me sick **(all the way)**
-9. Just stay where you are and I'm going to calll an ambulance **(stay put)**
-10. I'm a tech fan and really like Apple products for their cool designs **(big on)**
+1. Setting goals can help strengthen your motivation and gain control of your life `(take charge)`
+2. The two girls spent whole night planning the summer events, get-togethers, dinner parties, and  many other thing of the kind `(and so forth)`
+3. Amy Chua's book Battle Hymn of the Tiger Mother created a signigicant impression when it was published in 2011 `(make waves)`
+4. Instead of going to school, this disable man taught himself through to college level `(set foot in)`
+5. Since the debate ,it seems that Dr.Smith's point of view has become dominant `(taken over)`
+6. You see the lights in the students, reading room? They never go out at night these day because the final exams are drawing near `(around the corner)`
+7. Of all the things my gradma used to say, I remember this best of all — everything you worry about will prove to be alright `(turn out)`
+8. I will never go to the little restaurant again! Their food make me sick `(all the way)`
+9. Just stay where you are and I'm going to calll an ambulance `(stay put)`
+10. I'm a tech fan and really like Apple products for their cool designs `(big on)`
 
 ---
 
 ### 翻译
 
-1. You really know how to control you budget. **no wonder you have a lot of money in the bank**
-2. When on door closes, another opens for you. **how about looking or toher opportunities**
-3. **Believe in youself . and ** you'll win the speech contest.
-4. **As smart as he was** he achieved little thought out his life
-5. **Just listen to her and you'll be amazed at ** the remarkable progress he has make in learning english
-6. I know you've set you goal, **why not make a plan**
-7. The meeting is finally over. But **as it turn out, we have not decided anything yet**
-8. If we agree that college life is a new experience for growing up, **why not take a more active part in**
-9. When an earthquake happened in southwestern china, **out hearts went out to the families**
-10. What you nedd to care in chasing your dream is not what others tell you to do, but **rather what you truly want to do yourself**
-11. **Leave your adderess** we'll deliver the framed picture to you next week
-12. In the US, if a family member of yours has died, your friends often write in their sympathy card, **my heart goes out to you**
-13. It was very noisy outside but my friend John didn't complain, **rather** he remained focused on **listening to music** on his earphones
-14. **As hard as we tried to contact and invite him** he did not show up
-15. John has quit his high-paid job , That sounds unbelievable , but **as it turns out it accually is true**
+1. You really know how to control you budget. `no wonder you have a lot of money in the bank`
+2. When on door closes, another opens for you. `how about looking or toher opportunities`
+3. `Believe in youself . and ` you'll win the speech contest.
+4. `As smart as he was` he achieved little thought out his life
+5. `Just listen to her and you'll be amazed at ` the remarkable progress he has make in learning english
+6. I know you've set you goal, `why not make a plan`
+7. The meeting is finally over. But `as it turn out, we have not decided anything yet`
+8. If we agree that college life is a new experience for growing up, `why not take a more active part in`
+9. When an earthquake happened in southwestern china, `out hearts went out to the families`
+10. What you nedd to care in chasing your dream is not what others tell you to do, but `rather what you truly want to do yourself`
+11. `Leave your adderess` we'll deliver the framed picture to you next week
+12. In the US, if a family member of yours has died, your friends often write in their sympathy card, `my heart goes out to you`
+13. It was very noisy outside but my friend John didn't complain, `rather` he remained focused on `listening to music`on his earphones
+14. `As hard as we tried to contact and invite him` he did not show up
+15. John has quit his high-paid job , That sounds unbelievable , but `as it turns out it accually is true`
 
 ----
 
