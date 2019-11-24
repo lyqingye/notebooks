@@ -9,6 +9,10 @@
 + mistakes
 + a result of
 
+---
+
+
+
 1. **Innovation** is what we need when we design new products
 2. It willl be a close game. The **outcome** is hard to predict
 3. Making mistakes is **inevitable** as one grows up. what is important is to learn from them
@@ -30,6 +34,10 @@
 19. When you read the newspaper, you are probably not reading it word-by-word, instead you are **scannning** the text
 20. Good teachers should encourage student to user their **createtivity** to express themselves and make them feel proud of what they can achieve
 
+----
+
+
+
 
 
 1. Setting goals can help strengthen your motivation and gain control of your life **(take charge)**
@@ -42,6 +50,8 @@
 8. I will never go to the little restaurant again! Their food make me sick **(all the way)**
 9. Just stay where you are and I'm going to calll an ambulance **(stay put)**
 10. I'm a tech fan and really like Apple products for their cool designs **(big on)**
+
+---
 
 
 
@@ -60,6 +70,10 @@
 13. It was very noisy outside but my friend John didn't complain, **rather** he remained focused on **listening to music** on his earphones
 14. **As hard as we tried to contact and invite him** he did not show up
 15. John has quit his high-paid job , That sounds unbelievable , but **as it turns out it accually is true**
+
+----
+
+
 
 1. The author appreciated the education philosophy of Davidson College
 
@@ -80,6 +94,8 @@
 5. The author and his wife drove their youngest son to college and their fellings were
 
    作者和他的妻子开车送他们最小的儿子上大学，他们的感觉是
+
+---
 
 
 
@@ -134,4 +150,3 @@
 9. Sometims the magnitude of a problem can make one feel that there is nothing that can be done. But there is a lot you can do for water. There is a high chane that people reading thsi do not live in water deprived areas. and may think it is not their problem. Here is waht you can do to help.
 
    > 有些时候，问题的严重性会让人觉得无能为力。但是你可以为水做很多事。有一个很高的可能性，即人们阅读的人并不生活在缺水地区。可能认为这不是他们的问题。这是你能帮的忙。
-
