@@ -1,3 +1,5 @@
+### 听力
+
 + aware
 + muddled
 + find my way
@@ -11,7 +13,7 @@
 
 ---
 
-
+### 词汇选择
 
 1. **Innovation** is what we need when we design new products
 2. It willl be a close game. The **outcome** is hard to predict
@@ -38,7 +40,7 @@
 
 
 
-
+### 短语选择
 
 1. Setting goals can help strengthen your motivation and gain control of your life **(take charge)**
 2. The two girls spent whole night planning the summer events, get-togethers, dinner parties, and  many other thing of the kind **(and so forth)**
@@ -53,7 +55,7 @@
 
 ---
 
-
+### 翻译
 
 1. You really know how to control you budget. **no wonder you have a lot of money in the bank**
 2. When on door closes, another opens for you. **how about looking or toher opportunities**
@@ -73,7 +75,7 @@
 
 ----
 
-
+### 阅读
 
 1. The author appreciated the education philosophy of Davidson College
 
@@ -97,7 +99,7 @@
 
 ---
 
-
+### 阅读
 
 1. For many people, water has never been a big story in their lives, This is because they live in communities that have good water supply systems. They turn on the tap and clean water flows, every day of the year, This makes it very difficult for people to appreciate how precious water is.
 
